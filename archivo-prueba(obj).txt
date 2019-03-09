@@ -1,0 +1,7 @@
+El archivo de prueba fue otorgado por: Alejandro Tejada. 
+
+Esto se debe a que al momento de realizar la taza se realizaron partes como cejas , mango con algo que se llaman 
+"Nurbs Curve" al momento de querer transformarlas generaba demasiado tiempo que se podía ocupar en el desarrollo del programa. 
+Se habló con Dennis al respecto. 
+
+Bai
