@@ -1,8 +1,11 @@
-﻿# software-renderer
+﻿# flatShader
 Gráficas por Computadora 
 
 - Python 3.7 
 
-- Programa principal -- > python project.py 
+Programa principal: project.py 
 
--- Librerías que consume dicho programa principal -- libs.py 
+
+* Archivo mtl: se encuentra el archivo "chip" en el código 
+
+
