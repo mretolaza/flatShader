@@ -298,7 +298,10 @@ class Bitmap(object):
                     col1, col2, col3 = getKeyCl
                     if intensity < 0: 
                         continue
-                    self.triangleB(a,b,c, color(round(col1*255*intensity), round(col2*255*intensity), round(col3*255*intensity)))
+                    colorA = round(col1*255*intensity)
+                    colorB =  round(col2*255*intensity)
+                    colorC =  round(col3*255*intensity)
+                    self.triangleB(a,b,c, color(colorA,colorB, colorC))
                     
                 if not texture: 
                     grey = round(255 * intensity)
