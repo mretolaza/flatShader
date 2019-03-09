@@ -1,8 +1,8 @@
-﻿# software-renderer
-Gráficas por Computadora 
+﻿#FlatShader
 
-- Python 3.7 
+- Programa principal: python project.py 
 
-- Programa principal -- > python project.py 
+- Librerías: constans.py , utils.py, libs.py 
 
--- Librerías que consume dicho programa principal -- libs.py 
+- Cuenta con archivos de prueba para su testing
+
